@@ -1,5 +1,5 @@
 getgenv().SECRET_KEY = "mrr_c3e543e5fbfe449c952de11472274f36"
-getgenv().TARGET_ID = 3786113869
+getgenv().TARGET_ID = 10616537359
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2
 getgenv().TARGET_BRAINROTS = {
